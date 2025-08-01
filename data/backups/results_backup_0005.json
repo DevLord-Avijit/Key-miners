@@ -1,0 +1,242 @@
+[
+  {
+    "file_url": "https://github.com/nelsonlauhy/agentassist/blob/87052b64d07903f60e7b4ad173f05b047db7cc89/key.txt",
+    "secret_type": "OpenAI API Key",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/Huzaifaabdulrab/AgenticAi/blob/696e76e31e66b08f5bf471a982e4316c7ff71802/ai.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCUuLfxuwA19ILtBjuWTZFUlPe1y7tA0JA"
+  },
+  {
+    "file_url": "https://github.com/Huzaifaabdulrab/AgenticAi/blob/696e76e31e66b08f5bf471a982e4316c7ff71802/ai.txt",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyCUuLfxuwA19ILtBjuWTZFUlPe1y7tA0JA"
+  },
+  {
+    "file_url": "https://github.com/Huzaifaabdulrab/AgenticAi/blob/696e76e31e66b08f5bf471a982e4316c7ff71802/ai.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key =  "
+  },
+  {
+    "file_url": "https://github.com/Kerenj2123/Kere/blob/ea214bd0c5b29c0494543cd6b1191399d00f217f/app.txt",
+    "secret_type": "OpenAI API Key",
+    "secret_value": "sk-eJQrggU1kLXnQIAdM03L8wR2OOmcciXDriQPXVHtGAT3BlbkFJkOp"
+  },
+  {
+    "file_url": "https://github.com/Geaux-EDU/Geaux-Crew/blob/95fbd0c6fe9b50a483574bda40364aaf0b9050fb/AD.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "ApiKey = "
+  },
+  {
+    "file_url": "https://github.com/areebahmed575/Learn-Generative-AI/blob/fa1f3f332e7acfde622344fcfa9bcd6dec374e2a/openAi/testopenaiapi%20and%20langchain%20(1).ipynb",
+    "secret_type": "OpenAI API Key",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/Nnamdi-Sam-Eke/omnis/blob/04f27dd33a621cf618dc64d824345e9fe493b0bd/'env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyB_Yumt17bMTYFQQDl6ApkLEB9hsAQtT2c"
+  },
+  {
+    "file_url": "https://github.com/Nnamdi-Sam-Eke/omnis/blob/04f27dd33a621cf618dc64d824345e9fe493b0bd/'env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBhpcN4VvqSrc3yP7FBZ-AQwaQX3LYajuA"
+  },
+  {
+    "file_url": "https://github.com/Nnamdi-Sam-Eke/omnis/blob/04f27dd33a621cf618dc64d824345e9fe493b0bd/'env.txt",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyB_Yumt17bMTYFQQDl6ApkLEB9hsAQtT2c"
+  },
+  {
+    "file_url": "https://github.com/Nnamdi-Sam-Eke/omnis/blob/04f27dd33a621cf618dc64d824345e9fe493b0bd/'env.txt",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyBhpcN4VvqSrc3yP7FBZ-AQwaQX3LYajuA"
+  },
+  {
+    "file_url": "https://github.com/KotlaReddy15/Athena/blob/2b86c49248230f645fe2822a73e5b2b10e53903d/.env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDjsZpxdPc0Hf2QCbUyjTsKOEZy3LqAhD8"
+  },
+  {
+    "file_url": "https://github.com/KotlaReddy15/Athena/blob/2b86c49248230f645fe2822a73e5b2b10e53903d/.env.txt",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyDjsZpxdPc0Hf2QCbUyjTsKOEZy3LqAhD8"
+  },
+  {
+    "file_url": "https://github.com/ArvindSinghMankotia/Crops-Ai/blob/003a66867a150f87c54df21ddbee7729ba0722d5/new.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDccW7_NuAU8ThIqmzD5-qDICqosIs5NJU"
+  },
+  {
+    "file_url": "https://github.com/ArvindSinghMankotia/Crops-Ai/blob/003a66867a150f87c54df21ddbee7729ba0722d5/new.txt",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyDccW7_NuAU8ThIqmzD5-qDICqosIs5NJU"
+  },
+  {
+    "file_url": "https://github.com/ArvindSinghMankotia/Crops-Ai/blob/003a66867a150f87c54df21ddbee7729ba0722d5/new.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "ApiKey = "
+  },
+  {
+    "file_url": "https://github.com/ArvindSinghMankotia/Crops-Ai/blob/003a66867a150f87c54df21ddbee7729ba0722d5/ui.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDccW7_NuAU8ThIqmzD5-qDICqosIs5NJU"
+  },
+  {
+    "file_url": "https://github.com/ArvindSinghMankotia/Crops-Ai/blob/003a66867a150f87c54df21ddbee7729ba0722d5/ui.txt",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyDccW7_NuAU8ThIqmzD5-qDICqosIs5NJU"
+  },
+  {
+    "file_url": "https://github.com/ArvindSinghMankotia/Crops-Ai/blob/003a66867a150f87c54df21ddbee7729ba0722d5/ui.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "ApiKey = "
+  },
+  {
+    "file_url": "https://github.com/chirag127/Image-Insight-AI/blob/55d1fe6b68c960b32d759f73bc345be45878f226/p.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  },
+  {
+    "file_url": "https://github.com/Hina845/tkwbypass/blob/88acc7df92e74afae377566f827c17f8ba3f7a03/scr.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyAbktggYoEBqg2UKyGBDfz61bqvoixWyqw"
+  },
+  {
+    "file_url": "https://github.com/Hina845/tkwbypass/blob/88acc7df92e74afae377566f827c17f8ba3f7a03/scr.txt",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyAbktggYoEBqg2UKyGBDfz61bqvoixWyqw"
+  },
+  {
+    "file_url": "https://github.com/KotlaReddy15/Athena/blob/2b86c49248230f645fe2822a73e5b2b10e53903d/.env",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDjsZpxdPc0Hf2QCbUyjTsKOEZy3LqAhD8"
+  },
+  {
+    "file_url": "https://github.com/KotlaReddy15/Athena/blob/2b86c49248230f645fe2822a73e5b2b10e53903d/.env",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyDjsZpxdPc0Hf2QCbUyjTsKOEZy3LqAhD8"
+  },
+  {
+    "file_url": "https://github.com/Hina845/tkwbypass/blob/88acc7df92e74afae377566f827c17f8ba3f7a03/index.html",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyAbktggYoEBqg2UKyGBDfz61bqvoixWyqw"
+  },
+  {
+    "file_url": "https://github.com/Hina845/tkwbypass/blob/88acc7df92e74afae377566f827c17f8ba3f7a03/index.html",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyAbktggYoEBqg2UKyGBDfz61bqvoixWyqw"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCNm9YxQumEXwGJgTDjxoxXK6m1F-9720Q"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCc76DZePGtoyUjqKrLdsMGk_ry7sljLbY"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyB9bqgQ2t11WJsOX8qNsCQ6U-w91mmqF-I"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyAdYnStPdzjcJJtQ0mvIaeaMKj7_t6J_Fg"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA58TaKli1DculwmAmbpzLVGuWc8eCQgQc"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDWBU60w0P9hEkr29kkksYs8Z7gvZ8u_wc"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyCNm9YxQumEXwGJgTDjxoxXK6m1F-9720Q"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyCc76DZePGtoyUjqKrLdsMGk_ry7sljLbY"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyB9bqgQ2t11WJsOX8qNsCQ6U-w91mmqF-I"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyAdYnStPdzjcJJtQ0mvIaeaMKj7_t6J_Fg"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyA58TaKli1DculwmAmbpzLVGuWc8eCQgQc"
+  },
+  {
+    "file_url": "https://github.com/PopeNobody/ai/blob/c4dce6aef7a56555f543dfa28fb65c1331c0af0c/doc/gemini/gemini-api-docs/imagen@hl=de.html",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyDWBU60w0P9hEkr29kkksYs8Z7gvZ8u_wc"
+  },
+  {
+    "file_url": "https://github.com/Samuel0088/GeminiClone/blob/168005c9a79e060ee6b2bff6dd184c4239bd52cf/src/config/gemini.js",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyASd4P4_tnqxfEixNMo_47GvrFUR18tmQY"
+  },
+  {
+    "file_url": "https://github.com/Samuel0088/GeminiClone/blob/168005c9a79e060ee6b2bff6dd184c4239bd52cf/src/config/gemini.js",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyASd4P4_tnqxfEixNMo_47GvrFUR18tmQY"
+  },
+  {
+    "file_url": "https://github.com/RiH-137/DSA-Coach/blob/04bcb7b971e8fe4447b84a1fbf01401357a8df3c/app/api/initial-greeting/route.js",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBxyItG1mGXYg89uiCaGGl1mQSfSGxkJ60"
+  },
+  {
+    "file_url": "https://github.com/RiH-137/DSA-Coach/blob/04bcb7b971e8fe4447b84a1fbf01401357a8df3c/app/api/initial-greeting/route.js",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyBxyItG1mGXYg89uiCaGGl1mQSfSGxkJ60"
+  },
+  {
+    "file_url": "https://github.com/RiH-137/DSA-Coach/blob/04bcb7b971e8fe4447b84a1fbf01401357a8df3c/app/api/initial-greeting/route.js",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY || "
+  },
+  {
+    "file_url": "https://github.com/Lofos1610/Automator/blob/9f429c22624202e8c134f30eb2dc15f46c616f20/LOME",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDCofB7HU-vllo7b5kx6RRwo0lp5jAMdfo"
+  },
+  {
+    "file_url": "https://github.com/Lofos1610/Automator/blob/9f429c22624202e8c134f30eb2dc15f46c616f20/LOME",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyDCofB7HU-vllo7b5kx6RRwo0lp5jAMdfo"
+  },
+  {
+    "file_url": "https://github.com/StareInTheAir/dldu-points/blob/8669377a5822d9a392d7570eda44e5f4b39950ac/DEV.md",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyAqL193sdtj8fQpeHyoXIg0DOWiI6ujdSU"
+  },
+  {
+    "file_url": "https://github.com/StareInTheAir/dldu-points/blob/8669377a5822d9a392d7570eda44e5f4b39950ac/DEV.md",
+    "secret_type": "Google AI Studio / Gemini Key",
+    "secret_value": "AIzaSyAqL193sdtj8fQpeHyoXIg0DOWiI6ujdSU"
+  },
+  {
+    "file_url": "https://github.com/common-repository/ai-content-pipelines/blob/111a85bb0a0ddf9de9b025d7f6e0cb3a4235937a/ai-content-pipelines.php",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  }
+]

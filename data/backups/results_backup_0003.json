@@ -1,0 +1,612 @@
+[
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/p.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/robert1948/django-on-ec2/blob/b42f22259524520ae2603ceced13aba1b29c1b63/AWS.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAW3MEFBJAGHDIJ4MJ"
+  },
+  {
+    "file_url": "https://github.com/robert1948/django-on-ec2/blob/b42f22259524520ae2603ceced13aba1b29c1b63/AWS.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAW3MEFBJAPRJW6WP2"
+  },
+  {
+    "file_url": "https://github.com/RAHAMSHAIK007/11ambatch2023/blob/46dfc0f3a104e91d1398eb56fd12878a0bca4e05/RWTF.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/go-vela/vela-s3-cache/blob/f50016daacf8cf9130aee844165880c9caceb887/DOCS.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAIOSFODNN7EXAMPLE"
+  },
+  {
+    "file_url": "https://github.com/jeremyarancio/invoice-reader-app/blob/a5d08e347dbe7c408ab5f342678caa3181596b77/NOTES.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAIOSFODNN7EXAMPLE"
+  },
+  {
+    "file_url": "https://github.com/alextanhongpin/cheat-sheet/blob/bc34aae0a85188e107c668ad90af21216fff6273/aws.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAIOSFODNN7EXAMPLE"
+  },
+  {
+    "file_url": "https://github.com/ibm-cloud-docs/cloud-object-storage/blob/d1b7ed6bd4187617f68db1a35fff9c63efc4c99c/go.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY>\"  // eg "
+  },
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/p.tmp",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/dungen/k.yaml",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/dungen/test.yaml",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/ramdasjogdand/Devops/blob/46dfc0f3a104e91d1398eb56fd12878a0bca4e05/RWTF.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/Touseef-Git/owais-portfolio1/blob/03cc4781bdd26278695f8dbd7fdda3016b591e99/keys.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyC8O1zIqLImL8sRn7aBJmvt2xcGicCtzAc"
+  },
+  {
+    "file_url": "https://github.com/Touseef-Git/owais-portfolio1/blob/03cc4781bdd26278695f8dbd7fdda3016b591e99/keys.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "apiKey: "
+  },
+  {
+    "file_url": "https://github.com/lufia/til/blob/890f87b1aa65492abce6add11b0a488bbf6c260b/fcm.rst",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvQ...VGCKQCSQPSw=\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/iethem/spring-jwt-firebase/blob/c2efaf611cd93f2ab880fcc8c845f3c07c6f9ced/DIY.md",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyAG0uQ4DhG43gnBzid7f7c72dJoSCjzAtU"
+  },
+  {
+    "file_url": "https://github.com/iethem/spring-jwt-firebase/blob/c2efaf611cd93f2ab880fcc8c845f3c07c6f9ced/DIY.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "apiKey: "
+  },
+  {
+    "file_url": "https://github.com/RoyDz-hue/FortunesEF-/blob/0094fdb3e17a09467a039e7946171e431536eec7/env.txt",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvELuhlJQQHjD9\\nwhAniu60pjSWLYkH3POrvLZuF9e00g7TBcjGxR0vCkLhoS/0yDXqMWA69fCxhrrU\\nab74cEi8DGM6lQHQSFSfFyF/3XLDqDEGAxQyf6PYNoIdJtV3nBOcC6d0o20WodB0\\nJtlHJtqINQpUuvPWmOUFAPaeKPqkvqB8KT1MOpoNcAOCjTSvpnR0fd+J83aeUDgS\\nE7foQ5KBzHH2Gz1S2LuLuUYCAtcNlRgQ9FJbRUPj3b3SGWIpc9kz2cEx+vT0n8F0\\nCKyzGXh7Q7GkT0+8qPYV7L2vfVt5IqvjUtGGesgf5DQY5VL/N/WgNP7+Rm10JlOw\\nbvG+7LA1AgMBAAECggEABwazZe+tWTZByuisHRvFqwkIQqzCLq21Nx1qu8fUl8SR\\nS4vhL1HmJkCrRxxg7Q1qCIobYOwFBIL+4mgtSquEmwBRegTuXs2NKk0GqN40IHRf\\nWOy5T0uLJ/7Y2wWqrjnDGbfoBe9KZ6ZuVAyvgY9zWHshSbd7jA90rAfW96l3Lpk8\\n/IXcHzWWAgAiwQNq22ItjTQtSjcFbS4O85stSL69AA0UdkuBrHZqHjOB+tz1DkPU\\nmgGXpiDvOKEToTcb1Bqx5Hi1//1Ov6EuI1UtusGhrCpJ4upLFq7ASeE4dv3Sfr5z\\nn4aOSTJ2on7iwIBbLrKo1kSdBSZrLjNHPcJtDC/qQwKBgQDieEp6FuR67c6PazvH\\n8CFyQx1PMw5+A5CiJIt8W0hPBUrPDZF3Y3CTLjKeGf2CvcQPV3K60zHhIgnAauGS\\nguNGpZoqN846Y+kuWOQxvR+wYOz//VqT2V8jC53qv30jtwTnbN8szMA7oj3e7sh9\\ncTcNQO7iUDlvhDR4uQZOvdvHSwKBgQDF5Ia5wsgKoLOv88vgCr2NZGS16JehfJkM\\n+2iDvHmcCSfwMEz3VPCaS46PidVk0PsfJTCSQR2ylqnj2wYmhhMZM5ZyibFc2t0y\\nf2hPtwS6aMTOF0ETvOEQZvFxnmckihcTE4BI/8U2d5qNKvphxNVrIPNHJbh6y/AK\\nf1bYOLE2fwKBgExa4kFnloEbzJjuPqmafKxZlHgvbqNt8EW6rIyw+iAqWJ6WpITs\\nMfhtiwNjH+YEtSW3BieXLSoKn98QKh2Lo7UeAGxbhFyLcwL9VXKvoQ+GnmFwuik/\\nEKRwNj3/ceGowy6DtnsUTXvNp66SM2aX1UfSrLgA9Fx05nwNZeMGgCMhAoGAU68a\\nEf/+nA/tLKEKPAoOsnYb6JkdVhrclhLS1bKkMonkq7uhMI5o2LbO6IA/D00YhMkz\\nSwXiSx1PZp2+chgMh4G7Q2Ba8otTMwGR2PPqOfIIF6bZzED5Y/hEbemwcFE9BMIg\\nY75VZX0ajEv6adHU9mKOvi2DX9pR/f5veSwwNH0CgYAXCbY62mw6AxQunOITW23D\\nT8Jmo2ChCWcS7yszb0G1ysCS8gBsxeeHLzIso6D2EBe5QkdB14tOFXAxfMbANbBj\\nv7Y15SNuJgiMnQngOLu157wJmjZnbduHQUbAOmzmQdBiuH1uss/t3mgThV/JQlMX\\n1dKVhKFuAh5e/uVws4ATzw==\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/MorandiSantiago/PI/blob/ffd97f2de19888f9948b8898401478cdeae1379e/fd.txt",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC1ocC65bgiRLRl\\ngTN71cqTe6dmthi+qKVvQRjS5Eo1XetUcF7Zv/QGdQBUV9KgiP1xAW/XbuvkYz5y\\nHpwxScZZzvEBJW0C74DX0qpg+XHc7ONntsbrhe6PPNFU2qOl4eM80kBz/6suRcB3\\n/x3NjEks9m2Jcz1LmRV/MX69VUhN2d7TgkdKxADRhvfZoOg7Gl4IckMUv6C5sB83\\nY+jjq53OvU/RUVO/qPa66dwrPDlV+rUwuFlY5EPV57xxafUoGpmSgj9BE6dA8mlX\\nkhuez6MNhQ0fQOtCRln4JdLTj2e0KZNk4SfbIWoL6Q8uJwcwx0ronWvww+Lvw4D4\\n7Amwh7gfAgMBAAECggEACLypqTPgqiFU7icLY3MSxgpmMI4k3ZL+Nj5S494gZbXJ\\nWqv3HBFcOy1IoUYCNz+vtU5k41+OEFPnzpSDXemXFX3bYPs8Za5Aq+ER2g1VuVNZ\\n0wTbR7wPECvUQ/kqcxHNHQFeIVZUlSq8yejnNZqAcJ3AAiMdeTP5cT9fwdrG2hvC\\nf0WSdQroyGi2hdnuuRZsz56MOtHbkSzYP94UR86/wKpmteSIYZTCNXOaQ2mbPjr6\\nX1AnaIJcfj0+Zq54CklGlg2z1i0SGBIhq0kLSfArk+0h3li/H6a25mhAgJ7+9iSq\\n0x0MCDllzE4K5U4GGkhT7ivsn+n0m+EhkVDOJ1SVgQKBgQDuVspcGqQTmtznM4Zu\\nsocB7iTap0buUofzXOuuVhJ8AV/fvr0eNOgRd7J3A0rEE1SOqnIHxahXmTZHMrLX\\nHK6tuaedJi3VDeTFp+3rFTFe7XFd11+bhLGHgW2mLfnA0FJrG8iInlqB/5S0kCxs\\nK1axwhVLHG8UYIU3SdibXZ0igQKBgQDDFz8lzxhZHBHkQ87TbR29856VwEDWNjzi\\ngfg8rHQtvw9zNzkyPnMeK6Q7x9jhetNAciyZY1dzhGDZqVk51jTVcsFjI+Di4Co0\\nR3ACVUjgmao3LgHBZVMAQPL5dQYdW3x0G8tDFn6M9boMJP1K9+y+duVzJOvOc33/\\nbQaP+PZKnwKBgDt8U/Na/tqZy0q1NHdKfaHAs1gTagOve5kE9xnDB8gFe81XSNJS\\nOB2r91H282Euxer5pY5FCfgbGE363GIOGZbogGobjlLfrdqbSCllV7Yuox3d1FH3\\nc2uzpQ9V6ED0fa2X+JwIkeRiStYqKbwxsOia3T+q8Bpw4K7k8ngMjFyBAoGAEHPq\\ncG7Zt9IlNCH/1FbUdkuQaUKwdSBX3CZn3/4PQjhlviq/GRypKrc1f5EoGkP4guve\\nFQWKv4Q/grvEeZs2E3Y9FvZUpe2PwZ7wtFGq9r4e2852eW/pIxFXLHCRFnK7uTMK\\n3lqMS6kBirqn3eWwwpNWYHKRrHSTALKaJhQx+TMCgYAd0o/okGvG+Ha4Qd2fzuaT\\n3/p6ViMBoZhBtheWwUGz4n1Kt5A8N5iCJiHOONpRsxgLzrFdf7XMFvlP+boIeCa3\\nvPM4EDZXzw7PF/AntCZ2XiB5BnzxVkOLJqnbVmf5ZihhqfNRyaJuiWrsEJS3DBv8\\nOcAznJr47Dm2STfTMn+VTg==\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/jiisanda/user-auth-firebase/blob/fbf498bc71faefb744def3c75c888a7ea50f418b/docs.txt",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMII*****************************************UPM=\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/blackshadowsoftwareltd/Issue-Solving-Way-And-Guides/blob/7ef4e39f8752ea7c6324b72a0e6d3737e575a829/fcm.md",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\asdfasdfasdfasdf\\aasdfasdfasdfasdf/asdfasdfasdfasdfasdfasdfasdfasdf==\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/Jelenicat/email-api/blob/6defc2d77e7994f5f8e7ef184d7dc6a6d9a56711/.env.txt",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDEG+/0A6LTYNs7\\nQ6OhDn704zYDiFA2IYsL4x5i/CwNos0ZgSSDCZ6nRHosHmdefIua+RFShnLRcIIb\\nzXr6Rw1qxEX1wl8SCk/K5iu8BFVXnTc7c3k0RqNX3N+9xtBWA1DDrtiB99FVCMtm\\nZTA5T01ebAUYeXo+kkSRNQpYnu76fdWw6IDVxsP2U/SATBhJ8wV8zn1qpVgazmA+\\nZO7uX8hoBLrwb9w0BeubbhSpGE1t+X6pI8M2gaMZBwZQ8bSldbUu4qi1FR97lZO8\\n/ZGpyvaLg5xWXGblCSpstO2DBI9+bxTkxjij+uEWbVO1Tt2wzJkZ59QiSyFMAsv0\\nkHVsRLKdAgMBAAECggEACl/b+tGybHJERsdWQa/toXDfq6IrdCGkJHXYZq4menYx\\nWXcOgmwg24Jw4CKfn00BaaphczcvncrQ5z2gktrtZ8eIV+73bpHjFL3GdITaKu9j\\nO57pO429GGnT4EtDPDmirSdzxrRge5oigIE74txCIIugXWIXyHWecPwYVwXZaKDl\\nrJZfUmF8AQm1wguyOT/k+gSdc0ozIaTGgzaUCJ5URT3ij1qvEYyDzDv7LhvY2Fw8\\npl8HVrgCgUA7aqVYXkbQz+w/pExXjJPjVPR7q6GNDAcNebCscU+o4vGbnXa2BTmg\\nsur6YN/yeygpDxgQDZqhH367j2E2GR56p+Gci6GXoQKBgQD8ObUqG08xgLOheQWl\\nqzEe/oo7Ylndu8TqV0ZmbXNDS4SwZNVsXUMGZekDT6zb6W7kR91bJQCC6Lf8csiv\\nLU3sUHtQWUeI9fWad8S4coAuC8QjFeXeQSFRdKhof0miFRZdlEyF1bvK0xljls4m\\n73QJzvxUo9t+iWPWczi6U8v0uQKBgQDHCz6Rq5De2CYP2lj2IapUOXqRo08QpTDh\\nC0swB6dEYtt39QcF3NjMyW+MzTKEVNXYI2vwLCJykuc+0cXavpWTpm3gCM8mXcsa\\nNtZND5/LtIkXSVANxfAaWIUhnzYOIH5ORmIfNlXggB+3wtwKvCB2U2wMOQtTumHW\\nPqVzrODDBQKBgQDzSAI7K/415ErfK+lLg5UsrR3N6658ljl4Q1gvQdDUjwncTlYh\\nYM9eY3veasJzl3QTklGrMUSOAEQ+psR1W0B2+KYIuSSrsXoFVRKVSjPitgyoPt3q\\ng23MsLYjnOr8AFUDTCCHUsIA/57UlUgg/AQz1cdDKI11PrXiyl5kMqFeWQKBgGup\\nuGFg9M6lCgl/KKmR0ikWoibOuACf6c2Ap13GdgJ2mpHLNs5EA/zZZH47q/yKStVL\\na6IQrV1d+rkvDJ9igVPJLRuGiE4PY8G9MbOjJOMxtwmifSvGCjal9PUXwkxn5Qn/\\n5ilN4au6ge2K+CzST5jRTNtbq7XRVgRmBGaKd1TlAoGBAN4k8lH4S1fuDnWWut/x\\nig4gc5AQ8h+dbdHsJ1NjhvUmqk/UpbNkKhUjjB45BPg8+FG9n9lNbBE+hHy6IBB4\\nwCYG+j16sejM89wgFnCJv9IzRsW2U4XbpFue6kA+bIWY0wLPvrxOU3NVz1+VN8ms\\n+OIXGQE/Y5GpY0i/oedLiNNB\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/FredKom7/Hackathon-Project-Glovera.In-AI-bot-/blob/0f14fd99bb86bb4e773af27294f082ec37e78fed/.env.txt",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nYourPrivateKeyHere\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/EKI-INDRADI/eki-rnd-svelte-sveltekit-2023-part-2/blob/c85fea224456450972bfd01855fe94faf2c52de2/readme.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "apiKey: "
+  },
+  {
+    "file_url": "https://github.com/armanArk/firebaseTemplate/blob/e99405a5bfa9e82f4dd7b837d761416fea0e63fd/anas.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBMwbOmnakadkaTK1MIbcCKSJe2EIHHTQ8"
+  },
+  {
+    "file_url": "https://github.com/armanArk/firebaseTemplate/blob/e99405a5bfa9e82f4dd7b837d761416fea0e63fd/anas.txt",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDeI2CS+AOur2Rc\\nM91lHUOt36+Dr1svpnGsIi3f5t1rnsGujNWDQCAhSLqpjY4fQ9HEOZW6ZxcwwFF4\\ne7H+EQoHLH1S+u49/XuFMv1m6Et6bCLoZkM8dBmUCqxWG7l7LIzkq+j8AaJN9E5+\\n+0yaEmTtYWXqWhtrf9vOL/B8sTc7DHsPGEphDNXkkVwCinoNqGIuHnv5nIB+xsrm\\nwiI/+u1/LtYaV0rgniQn5zDtcVZRv4iIvY2/jLyW9WKeRwbLz2sqS2QdgGXbfyF7\\n6y7XDKkEcbkmJkJrhZxT+X+xnX+ebSnqgDvB9o7jG4/PUBr5D0rqk0ROzkO3tEKO\\n+Z7MYOmBAgMBAAECggEAAIUjzw5HeG2K0iwxKdEg6R+doiTbRVwZ9qelFLnONYf7\\nbzqfTpmMJbXNUZOuNDCpBWEG4qcGgu/FVQ9RlC0jKU+DatoBbCnbc90x4o97S0Hk\\n7kc8g7AIJgyFGSXDGDirSwcDwnDIye7PLv0MwazWuYdNiTgdKbIUwDmkog8aaHAK\\nvNDAVzvmhgntaXIgPRM5OT01Tsgw66MB2A86xuq3n3kdhN+IMzVZ85XrrCRYlbUq\\ntsdR5o8d98ZfqN4/3IQBpCvKFtWA+o5700LvGsfAapjwcu7hsEWgCS+dllficNTA\\niIHrlKIfNm+qZ9FaSahRV6AKD/WJK967VlJOQuAYkQKBgQD5dLyU4QCJsNu8lul4\\nCLVxpfw10Y4G/CTyKh4Vn9+eeFTqUKEty0AH6oabOD78Z+fCeYNbq1u9HKDyoAyb\\nCt5oaUZGAwhA5f2MGGfPZi0DRwdgitx3SyATppaIHq+PUFQEzIyMudLoto0I7LTQ\\n4BMbGq4q5iXLGV+cWxHXLj7ZsQKBgQDj9y7sD8GfaX5wL5tHIeWdfEF6n8S50tZv\\nM5o1DJBzGg7NdmnD1pyDlD6ua9vxwWFyGm7D2fmvrXs7w5FRWK0ta4YyBeA2YHPp\\nca3uxu71+OK1at+lHz9gUwngLiQAa87q6hl+WXNCzi46/8pZ05G4Z+t1zQRvLppg\\nqlWMtkAw0QKBgQDz0Z3hBmq4Kh0cH4TixeBSzKHPGJtxSFH0QCZXjIPNKGAXBegE\\nEnzrP9eBL2Cg5A4qjwpNNxfbp3fIrZakk+L+uqbtF1mh1SoVHGWa2Yt1gJ89RXxn\\nPQ6FJnZLZXLC6Qi2CBf4FEiJHKSM7I9u+RSzkUhatciK0qoY8Qpm/9R+gQKBgQCR\\njDleKLUzxZQfppWade73fOUFmMpu5klY2HaFlk8H3kRDNG5UxkpJzDW1AVJ9aT2B\\nL5U24I4Fd1ruDnBSoq53CGa2u3+q2CxJiPZHNKZPT6fXsrO15lx9cKcmhe8ggbSr\\n0emS/SOVLLThoH0emvE37smr/cjt/7A7NaXHYHldcQKBgQDpSUzFKBvUBk/5WEdh\\nnbnAR6DPDY91uDutIhp0LIbQlSR8l2CMF1qj6VeygbMpekoWrE0K/RQAKZ4TvrbF\\ndoawdVbDO3l63WmuTPg5YQMkUKWxOaESOkJ6APFXRGeF6WjAUgmoJncx/VzyCCNz\\nrk9Pd5SrIwVhRawWeFiPjeweWQ==\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/dukeofsoftware/series-tracker-v2/blob/692226e12632b5f4ec06ba10d3dc37c924050039/LEARN.md",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\n\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/r.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCn88lZvkBwb5Q-LAiCs8Mni56lclVb67s"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/m.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBuhwCEzXTE2BtL-m3tIMAlXMVELwJiLqI"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/f.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDGvKTGzPN1tXbbFHGrQhZC5zbc0nhIaO4"
+  },
+  {
+    "file_url": "https://github.com/dukeofsoftware/series-tracker-v2/blob/692226e12632b5f4ec06ba10d3dc37c924050039/README.md",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\n\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/haxan100/pembukuan/blob/7c76d6a8b319acd7f22dc9b5ecfc18cecd229406/application/keys/firebase-service-account.json",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDP5jJngNXJLcPV\\noSajeZknUGY2OBqpKnH7YAgD+1iv1OGNpwIHsRhPo5seip3OVxI9EUEjOqlyI6Hs\\nnInQRJV+puPV71jbMCEkkg2y54cz0EYPVOEPP6painlFRuWQyA7w//agn4s+HTXF\\nnJHWdUQkeRXyl1qfal/D39zIQgaRQ5ZCsNRvPtK2mvKiVz2bEtl+Vj+BxkDlSazD\\ne302lEuSdrOryLJrDTJh44S0QeIOhwVlmjQQUzDf/l3IBHDcg9FuNSPwFvPeLrza\\nWlDfL6AsQjGhDPuiTQRo3Wpdb+sOqe2enKMOIFi7wrHmDRqLZJTodXxeSPFX59E+\\nZWQdy9wrAgMBAAECggEAFBmP7E+ERn0yZAA+wZWwjSCp+ST8eDgpKUy0Ca/ZImAl\\nEcfAm6jEuR0QEr2ucHQc8yLXbDCwOt+fY0Zme+hy7E9LU3Q0CuEA203JnZniiaEM\\nclAFAFnp6PNesn1zwByEy/UbTZU55klMWReARr6Iq4lkv1MLHm2E5mWe2A0AyzYT\\nvpm/f+6YkciZtKi+nSqCRk1JtnWND40m7NeZUBZsf7gbMkn0uU/hnoJKnW1V3u2K\\nBilBxzpr5BppY80Oa7eMqo3pt9Vq4LkpyqYQ4y5t77rJC+r5D/fJapf7IGLs5xdy\\n7mxaQAGgbS2YP25JosK9VJ2KqdQiAF947jl66OH/9QKBgQD1y7i5JN3OnQmMTc3l\\nwZjyEwqgsfZd213bcYBvOQzrjIJE5VhZTr78Asof17pirlGPCdcKh//DyTXJjq0M\\n8WrrAlnB0/SniMXXdpjApnNBJN9K+sl19zVMVur+wGl+kRxS6O691kIn/lhteE/M\\nBNhmVO3PY3c8rlPfq/hvAOGLbwKBgQDYh7dskvWEYKFD2yJg7HC/lSupOBFpt8sj\\nqyD+VxKL3/p/H1UtM7AXZMCjGaJR4M70h2Le9LnJ+y7Kxdu90vpXBuZzCtDZx11c\\nQ0jbppXgOXM7mhvAwNsSdNZfLm00OoYb0Nou+sUoHytURbgJxygwB6j4T0NMfx9G\\nRo1sLeiNBQKBgH0VIjkd2L6XTc+XnIsqfTHbnNHwHobe5qGQ3iI7ryaDh5uV9uLj\\n3u8SYFfaCaDEQv7+q+9RDEhPMc8Ti18F0DouJQ0tVtiXEs82LEAFtKtXH0bh3vno\\nRrhFlyrzMfxVzksm/K+gxGPj3I5A5qLVaGaTG74pSPmZYVd3BWM/2IeDAoGAdb02\\na/9tKVIx3mflxbZLiKFgYF9weH/MIdUH18UY/J4J493xvuaANfg/F3D05njLkAOe\\nK4X/EGlZBEGaPxndrjy+SofzELhrd6POlkF69bXHhv1BYgp8FQkbGB5ymxfHnJBw\\nU2NgmXR5ZxWSAR8eJx/DLWJMQehN5TSv6cb80NECgYEA0VVRnsF3b1qPeveFaxrX\\nVK/oAdO/fu5ytd0hOhnXf5r2+Poza9wLnVw0xg42MJhfpKv7KZ8efwC8Wk+manSW\\ngj2GQRVceDbTdYTbPGgKrZWJ6cZY+TGgzzID7HyF+bpyx1vbHcoym9fhmt62uSzj\\nWWTpfnf4a3mCzn4je2nKbUI=\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/web3saad/CrowdFunding-Platform-using-Blockchain-Technology/blob/4c81fac86e2628f170aa031d409bba9c2ad6bd74/firebase-adminsdk.json",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDH1mmXBUeumLeF\\nQt8oNd8x7IrXgm9fGsB71RLcXeoazbg0sc8D6/4ufo702qp2YtUeB3PqkrMAUTTe\\nIsCbKzHggaBqRjyzAoiKrYtEL3b1gBVO7bnGMGv5o7XJvPi0isYEhX25x2MqReN2\\n3a69y8x787XmMaLyxlaSN1Yy1P31VS654pCSyAZ0gz4ZbqzQFZRug6puvS6/clxh\\ni7E1aPOR9eFDQ4vihmtz5LGLWdMjo5BQ3JwplfeZexLzZ+tVzyeNDKnoHOoXaQa2\\n/m0/btkzEOCSHga08AfxtbkG3sGSuWc0L4hVzbw8pDsvHENh186vBOB0cGSRYlYI\\nfr7t+QUbAgMBAAECggEAHhSnVkVEMgLo9RVI1Buv2ir6B1CqBQ3Y1YsQSL2WRKyc\\nwsnVGIkIfOUuDatwp1tfKyMCDthAO5b9t0ZR6cmJu3qns/eYoXWLKhzPbtcaOAAs\\ntPHR2gRl7HD5J0Hbygltnzac4z8hLTbR842RBR7NTAc2ZU0pcxPp6h6MSiCHjcsd\\nWdPv/kQmV0lwjHFMNDkuWzFpzRT99B0HruNRXPBaiJIafsfBTutS6sIS/Hj7Zjf2\\nR4svltu1Ot7Ost17V6EtOk7vHCaoc011ZICByHxG76IoQy6hqQ2fIi2mEPKfXxjs\\n88tU3Smd2eQtlztSSxLHr/rYgGwrPRGLMvayo7KjGQKBgQD3zpY1m33pVbAipQty\\ngTEPINYqB4Y7Ct3TYWmEHWmALWeKm0zyQ6uPYauL/lrcSM6nFGJVLNJmgnC7fbUK\\nXjsUv9PKr+GrCDhBk4kHRYOmgpLfjWz0gCF7YmOtRPuGsusBnC6vxiFSIuAGS83r\\nSTVkIcbsYzBVrdy1ifAs92xi9QKBgQDOcdE5xSz7Ul4gny8GXjgkwiy8dyCo40qO\\nWTHr5ly63Knevh5NQdUg/j3gU7lyWOOWBr+WUP2xdgSDlXUPSRnTPJjGBQmWdgi1\\n7sGOHyFEfmEzqiC2qWTzy6J8UH4lKTzrAv04xbCKSrU/J1L5waxIlscj6a88+Grq\\nxui7XppdzwKBgQDX4PQArX4KOSjhdZC8ZwnbGQsZwEZSx0uqK1Gl042mKWfrWxG0\\nd/lMRpUQtzxmbVMCQQLNGugMf5Q/8eo2pxKnJ9oU2BYrTlTb4/BbElb3Rwc2k1kY\\nw0rn1zXoq5DHrrSGSY5ueJdsm484TO+OCs/ldHt8UYi5C2acDBfcxIt6xQKBgAnb\\nQ0sHz/r71sSl9P/P1cxjfPFOmr+VgoTDW2/Q4tKFIJMi7p1vrDZUDS49sRf1iIAs\\nOE979HDZmqORqjIdol8EgKLLsMZ/QjE1ggZAFD2J7yghUkiGU+yT52EaErvBeUgb\\nL23bem9P29F1FjAYgBpDIKTlTlmR3sDw2EHB5YrfAoGBAMijaNopEKWFCiH2x8hB\\n214qeJZgQEo+/VLfaVg9EMZh9Vp6N2YILLywBlfBXPZPtnZ+N3EeyStTQqwFgCrL\\nE6djAW37Sj7re1TUmmHcUT+cSuSCJmnRKEMiVAzUtOOWoY4b1Jowz7q+IZvlS+4y\\n/Awryjp/9F/TkV20gEuqgEAV\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/Mr-Baga08/InterviewTTS/blob/d34fbdc7d871ca6b8732ee52d03e537f199687d2/app/api/firebase-diagnostic/route.ts",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\") ? \"\u2705 Yes\" : \"\u274c No\",\n      HAS_END_PRIVATE_KEY: process.env.FIREBASE_PRIVATE_KEY?.includes(\"-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/varungnathan/PlanEat-Captsone-Project/blob/41ea74e183bae8b09424faf58d5ab556b44c4f8c/planeat-backend/key.json",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFeBlaUmTc1ucH\\n7b3/xgEjG9dY9tLP27fPuEYud+8Dwaenv/zk3jBuqsCinPX4YEro8LX/qXiUaneh\\ng6m2lg9yZKCL4quWLqzDlHwfferbIbMMh97NzI5E+9ytsPF4x/Tp5au4KeS/iknd\\nHd9YStVkRgj6DoIRPf7j7115GXszvMZ2NmR1akVqdFDnf7knwOo0ISUTowLxFuZy\\nKmMfzrQllYvOkJeqjjuNU1p6X2zJa37FdM2EnR+Yd0rYh+/99wN14K4d8oy9kfHt\\nKf6m+Rs8mfObvfyawh+UTMCV8lPg0yl9VRC+2FhXgomX1WQ1Xi/sM2nB4Xlg1fgJ\\nP/cL4YMhAgMBAAECggEAPzSm4Ms4r5s1zcriIulM2eECd95hMdkBJ8Ky7BLFdW1Z\\n7Y69MsCPvgx3plUZQgwITjEmABRNnSvK6O7Mtr2nahUdckj2ZRbBg8SWSjoynztV\\nJTCkNzk/XINFam8Vi3RtRySVZ1g5eLmZ1OXH5GnnjbYBD5DvPveaC3lFcQqf7bnw\\nrj0SUyMhicSFZvBGU0+25VqYU+EboodOtpCRG1oNj0LeNeGb2JequM1CtrJgpRuF\\nsJmQFJFGKyhe7tCD8dO1L21mdUX/6qSogzCRuB7Teph1IV2mdRqpLvcJ5lr8h1BL\\nm8Qrfs3xYWmQP+T0NSg1mDeko99Z+LsdoeGfYACNRQKBgQD/XNKtm1xw7eHu/QHg\\nlrj09z8nHEjcLYQQBBMaAEf9MM2HybdkRfMfKzMukWi9lgjiRMiNUmGo/228TWW0\\niM2GT5g+Qszd9YgoorzdY2Xb2+saeUJYQfiOnC5759Oe7gzvRI3dw9a4lwUScdhZ\\nlH+mom2S6keknOu9uN+cDyPSxwKBgQDF9kg2TmAf3vh9bhbtgEyT3+6s/OlrEsPY\\nZXvci+s24p3k/NUtQ6MWngv3xpWTAQF1goZWW1e7CBww45HKX2gny1IRMd/TXFUR\\n5KtugYDGnZGZUq26jHHdr+fHn2EMX30BXQOXv3h8uPkkrnMG6sVKIMoWgNspAeWu\\n+5S7LrqS1wKBgAYrCM+2s/nqVQ2/wL7bBSatnjHkpgHje5AjeQ6kuRhtiFliTvK2\\nGdRD592VF5GUwSwt+yYmukMpwE3PFMjSkRxQad3/IRGvb5WDsMosL3arDje6fBbD\\nqSxQq3LEu8DYASn6Xu7fXx1gUHgMlew8AQVWYQ0uaYKZY7xWbdhIKVZbAoGBAKEn\\n5ZGQLGDFu7UgsjmWgMDBRCQ/oCYymIzJ0ROyNEHyKmgIC+NVdKcs8sE7QPjzkKSB\\nJauXoMv5xjlmiYEeOkRrGNw2pegC+p4echD8DEGkdKtEy3labDf0w9OWxAK2maVK\\ne2pFzWh7jRd3jNzMst+t4dZ//+paSQkyddoMKIbxAoGBAM3LlHcyFv4Z4KMzV1u8\\n9UL7Xe5EXf74yis+gw2eS+NU4ftCPdcyiXY+csMtRUurtrVT6IzEEfc1+4riPqQY\\nukAF/ZFhMMJrw5KVi24GuuqWv3jDu2GjJZl4izjI52rVfVRqGJxr2yUwv9KWSZgz\\nZEeJEtjkbkSZgLAJ7ibK7jU7\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/jeanyang04/MindMaze-Orbital-24/blob/790b025a622d39caba6c69c914b02b4ec76f4859/server/src/firebase/serviceAccountKey.json",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJaJIFJZ1B2YmM\\n+nmTLKsgYCCPcOn8aliVXbYcMQxz90hF0muXgLKVyQjR5hXHvmgDnkFt/JID5WKR\\ngqWkmTwixpyK8UZaww9gUK1rAOFifO4FFTD45BTYE+IzeLvMPifTEeR9LJhzCEx2\\nBWiQKQHITiFslFhxIK5qV4MTVd+qlttDSMf5znIdj2F9t/LgKhuCtPJv6pAdxQhA\\nOtcOk+GZOPtmwiKCu7QW6A+Am0IWiz6wU3tSq8/qW8tHu3Qd01ewwYWyM3cYawdv\\nKDV5DtVJ8rY+2QSReVyNvWQx+VE2cdt6fwOUgJaPEpW+aRlEfQIc5SJbOcabppzL\\naVbwm7hlAgMBAAECggEABNfm6wjEh1jb3fAIDGn+k4C8R7bHabKE/tKKFpN3YTKJ\\nImS1Aaeuo7t54tJNo8gIaE3d9O8l88IIZMdnhFXLBGsSSKUUtAoMzJwkD3at9Nhc\\nQPMJgnK5rZiM0AAPRBIakxDTFc+Euv9wF0Z6BT13NYHre9j1Z4MJrrT8CfL+tfNv\\n1JFfLwyle0EbWuAYHzy6w6xEmanNZnXJN4SeA0EDTOARdPfgh4psh2piuB7YN40q\\n0fSfXR6hhIeiVMfrLWc9A/iPbC8AnKIn5vceCUAiv0ulGBHcGDJGHlx03uwRUReo\\ngmy90qB28KNGbB486CNwxaCFn/SqpTdCE+JR5+fT4QKBgQDr6Gxmy3SPswOsj2ao\\nJOLJRye6rLDrhqDDsOTeuVvlEJTglRPPVpSZiH/XDf3XMHbmq+wXfpB/pRXAX7Gz\\naZlE7RoOqP7G0SIT11EY1aS33G0I6EhvlYU0sodOaUnjR7dGmB+OJpOCS6TkwfqD\\nMsL/Nt5EnBzHCnoQXGOk3mEuOwKBgQDaj/HckH2IxHCksK5eVSFPkXmuWjnLiFRm\\nyN2EsvC/zPeLDopYdwsnQJ0nJbDa6mcgSBFovldPwdZ4pWYGAxp+GdB/XKERJlkb\\nsf1IwuY3gpNCLSaliym1ZdayeUOIYjmr79B5bjRL9mYMDJGBioXiPOHzwqO5FrZo\\n1kRuItcp3wKBgQCRxDDPJ6IjdLqtcoI9HWWgdz4eQ7yiG7LUmEYjNSeKF7/WMWdn\\nMxlo8QYFLRkPUVv21n5wWf0RUkFpd/fGY1aYV2VFb7jVwr2qwt3SWZiJH0OkQFsZ\\nz6raUAH5Ome0b0jY7wB4hm+ZEAKYcx/G16PTrOSUQl4pwth/qYbMhbhIpwKBgHHl\\n+8vOvKzOeklJDcV5Jb/adwgGWwIXTKy31sD1o4LApOwhqrUJbJWLFZq2CKE88Hsh\\nM3lbYBLfWA5NW4qciWzXtRD6S7GtQ1ise+s0LlcVQ/qDnxU8HYM7zBP8H9ZuIdHZ\\nStJNPRGtGWcEEbvpXXYV9kZa04l8LZkauFSQ8YIPAoGAcOrPlOPXvYIHq7zxifsj\\nD879OndSrwT3QQX6ynwgcbVfJpb1KmaKfFkOlKigq8dqmk2hR1S+fYhIpawyPcs7\\n61GcN9XVRpmqhwU+UIX7Y5hQyfJMe1RsdVWz2MCevVg+W6Cob3/ffLfy/wp5l8VF\\nh0/aIij8KtgvdiLI1mfwFnE=\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/kaskaz/toc-server/blob/256d140a8d2255eff0b46db70cac52ea6d90b2f6/src/main/resources/google-key.json",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDQ8S/mU1r9kRHm\\nXMihv7fmzMftw3Bpo6w0zHKq7fiQvTI314faWLiQ6UuBppC+pc4a+xLcGDfFQ10D\\n8c0EszEFEhYYNmTXJITHQTHIh1Dby2lfftMFzY24KwylcjJ1pIbf/oMst/hVgOrI\\nSYt9ucrH/PJ90/nYgY7iq3X2fPRUL5GUN7QxqBNst1XKU5elPRKLS+D9jAbiPb5w\\nJTw3OHLPArWPAfewDN4/OzD6aBbezWBByRp4M0XOCxHOhjb+mR8GwMzNFhQ4mHKF\\nCBIi/VomecGshMfaTZMCcPmbVI9NxKA4C3EpS/8/PdDpQo7YzmFM7F03jyATLh4t\\nCWrAdVE/AgMBAAECggEAPBFqvOOv4AAJzllUULQGUbMDs0Yhli04v8EbIirh7/KE\\ncmtjIhGplfeL/oz9ReHy++y8gkvwFKUGI7ErSLOfXx7Q/Ur9+KAGECadAlJsm5PC\\nCnMyhZOPr6eorhPDj/Cp2dGYso19Nk+mr8f88zsrog0FRclgJa8xfdbfReqsb1rs\\nYUesHlDk3MHZZ2Ju2DBwOFe6yqs+p1q1IKutGTr6mwMThhSMQdC1/hcsity6eFTE\\nEyI67iHciuzXdqCrroaR3pSBUo19jNSQ/GBbnQl1GiL6ie8HL1m1QPO+FTDufSlw\\n0093WV+AK2YaLb8l0/b9K401gKq3o6/PEpVinwj3MQKBgQD1MbAx1PzaK/JQpVlz\\nyqguOrrl5dUk2AIcmQvK1dpGXCUhqlo7H7d8vqliLIglUeeadZL6TE94MDfO3YJo\\nUFdlbvcwcUu28m5dzE4B6YeXU+o8QqRgNK2lKbLxRwhQCeRoEfP2xeYt5XkUMxn5\\n90OuMdzX6g5zZ/lVV/m9nHQXxwKBgQDaJn/hnBg4IUcobX7G69VwonjHpTaEvaZF\\n5x8gJIJHDYx3oRkGDZUfNkj4h9P+5+4KttyLC4AW+ku41TaXwf7siyjmhIqm1PPi\\nIvLG+6nhX1ogisAXqpzdHJITrPgM6LSXJEDiK8JokOqAk2k/7l7rUq6nzYUggmWs\\n2bqkx1gqyQKBgBtxRz4cj3w/pOw/xWY/TVl3O0nV0mhAQORAgOBf1QFA+OrurRCm\\n+RteH4kcYNSEeT6BYEThW5ehFe3yPtE8BLwWklX6qDW+pnmbDzQJliJqwvGhp9IY\\ns0KkCyIUCCslIEpBkCOTfLKwVz/ahFLEyO9rJ0OHL7zc6zwRD6OYKiorAoGAAgOK\\n+K01OAdunbvtCK8SqFiHnugyiaUqjMima+iKX1eLrWsKTRkBAGnC4LB4T4kalHS9\\nsnbnts6Wtl0ZhOsgjFR4izA8C3A51COYdCfMmK0Fqvk87rr/ebcSziWxoIThbefC\\nxZO71rVHxOoXdaSgsbFwtVHbYcJyZ9cWtwC0GqkCgYBiDcEqy1k91YKotL4lqrcw\\n8h0HxqkPyfgg3rGSQFNsynlwviwNfQ3yoIS6auyDz7wATul3k0gGEIPb1BrQAmmT\\nQe8fe4j4kc+KTCwSclo3JUIoNrQL+HfU7lb1jtXhbdXthN2qet7QPQ6OSwNNeL1j\\nBtggHIhtWAhDJeAL+VAk8w==\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/Waleed1906/Dept-store-backend/blob/db26bb846148e532326c6dafaa64055d29324df8/.rest",
+    "secret_type": "Generic Bearer Token",
+    "secret_value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY3OGI4ZTlhMmIwYjE3N2E5YzllOTRlNSIsImlhdCI6MTczNzE5OTMzMSwiZXhwIjoxNzM3MjAyOTMxfQ.AXTvaNiAUfTi-x9fMAH8eq9EPWcAhsK0Zk6L9421Tz0"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA3JfoVTcUkJp4CpGObVK5CrS49ZSf1bl0"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/chirag127/Image-Insight-AI/blob/55d1fe6b68c960b32d759f73bc345be45878f226/p.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  },
+  {
+    "file_url": "https://github.com/taifAlrubeaan/2024-GP_4/blob/ad1881d74044213c9f656d3b32f84a2f9c9ea4f8/c.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBun53CttUKoTpq2tmqqrvz5hpLkp2GTMw"
+  },
+  {
+    "file_url": "https://github.com/taifAlrubeaan/2024-GP_4/blob/ad1881d74044213c9f656d3b32f84a2f9c9ea4f8/c.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY "
+  },
+  {
+    "file_url": "https://github.com/shahi-rabin/Enterprise/blob/395a744dd20e2abada51247a8f87410fb4b7e6b3/abc.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyD_IMQx7YphwNQ2Xe_FaB6lXgb11TQiR8Y"
+  },
+  {
+    "file_url": "https://github.com/antonscheffer/as_crypto/blob/a32ec8233babb51641f46e1d82b5814199ac42d9/jwt.md",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgevZzL1gdAFr88hb2\nOF/2NxApJCzGCEDdfSp6VQO30hyhRANCAAQRWz+jn65BtOMvdyHKcvjBeBSDZH2r\n1RTwjmYSi9R/zpBnuQ4EiMnCqfMPWiZqB4QdbAd0E7oH50VpuZ1P087G\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/antonscheffer/as_crypto/blob/a32ec8233babb51641f46e1d82b5814199ac42d9/jwt.md",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC7VJTUt9Us8cKj\nMzEfYyjiWA4R4/M2bS1GB4t7NXp98C3SC6dVMvDuictGeurT8jNbvJZHtCSuYEvu\nNMoSfm76oqFvAp8Gy0iz5sxjZmSnXyCdPEovGhLa0VzMaQ8s+CLOyS56YyCFGeJZ\nqgtzJ6GR3eqoYSW9b9UMvkBpZODSctWSNGj3P7jRFDO5VoTwCQAWbFnOjDfH5Ulg\np2PKSQnSJP3AJLQNFNe7br1XbrhV//eO+t51mIpGSDCUv3E0DDFcWDTH9cXDTTlR\nZVEiR2BwpZOOkE/Z0/BVnhZYL71oZV34bKfWjQIt6V/isSMahdsAASACp4ZTGtwi\nVuNd9tybAgMBAAECggEBAKTmjaS6tkK8BlPXClTQ2vpz/N6uxDeS35mXpqasqskV\nlaAidgg/sWqpjXDbXr93otIMLlWsM+X0CqMDgSXKejLS2jx4GDjI1ZTXg++0AMJ8\nsJ74pWzVDOfmCEQ/7wXs3+cbnXhKriO8Z036q92Qc1+N87SI38nkGa0ABH9CN83H\nmQqt4fB7UdHzuIRe/me2PGhIq5ZBzj6h3BpoPGzEP+x3l9YmK8t/1cN0pqI+dQwY\ndgfGjackLu/2qH80MCF7IyQaseZUOJyKrCLtSD/Iixv/hzDEUPfOCjFDgTpzf3cw\nta8+oE4wHCo1iI1/4TlPkwmXx4qSXtmw4aQPz7IDQvECgYEA8KNThCO2gsC2I9PQ\nDM/8Cw0O983WCDY+oi+7JPiNAJwv5DYBqEZB1QYdj06YD16XlC/HAZMsMku1na2T\nN0driwenQQWzoev3g2S7gRDoS/FCJSI3jJ+kjgtaA7Qmzlgk1TxODN+G1H91HW7t\n0l7VnL27IWyYo2qRRK3jzxqUiPUCgYEAx0oQs2reBQGMVZnApD1jeq7n4MvNLcPv\nt8b/eU9iUv6Y4Mj0Suo/AU8lYZXm8ubbqAlwz2VSVunD2tOplHyMUrtCtObAfVDU\nAhCndKaA9gApgfb3xw1IKbuQ1u4IF1FJl3VtumfQn//LiH1B3rXhcdyo3/vIttEk\n48RakUKClU8CgYEAzV7W3COOlDDcQd935DdtKBFRAPRPAlspQUnzMi5eSHMD/ISL\nDY5IiQHbIH83D4bvXq0X7qQoSBSNP7Dvv3HYuqMhf0DaegrlBuJllFVVq9qPVRnK\nxt1Il2HgxOBvbhOT+9in1BzA+YJ99UzC85O0Qz06A+CmtHEy4aZ2kj5hHjECgYEA\nmNS4+A8Fkss8Js1RieK2LniBxMgmYml3pfVLKGnzmng7H2+cwPLhPIzIuwytXywh\n2bzbsYEfYx3EoEVgMEpPhoarQnYPukrJO4gwE2o5Te6T5mJSZGlQJQj9q4ZB2Dfz\net6INsK0oG8XVGXSpQvQh3RUYekCZQkBBFcpqWpbIEsCgYAnM3DQf3FJoSnXaMhr\nVBIovic5l0xFkEHskAjFTevO86Fsz1C2aSeRKSqGFoOQ0tmJzBEs1R6KqnHInicD\nTQrKhArgLXX4v3CddjfTRJkFWDbE/CkvKZNOrcf1nhaGCPspRJj2KUkj1Fhl9Cnc\ndn/RsYEONbwQSjIfMPkvxF+8HQ==\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/Xeertz-Org/diffie_hellman/blob/8a39c259a5e8d235dc5da0ab7d6f81d9374968ea/lib/src/keys/codec/dh_private_key_codec.dart",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----';\n\n  @override\n  String get endDelimiter => '-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/vishnureddy997/Required-installations/blob/845d7566e67577c11059b5ec3c6bb1e4b261f7c6/tt.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/vishnureddy997/Required-installations/blob/845d7566e67577c11059b5ec3c6bb1e4b261f7c6/tt.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/user1121114685/gowarden/blob/ed04062e55657cc996eb1479a83a5678e4240c9d/API.org",
+    "secret_type": "Generic Bearer Token",
+    "secret_value": "Bearer eyJhbGciOiJSUzI1NiIsImtpZCI6IkJDMz"
+  },
+  {
+    "file_url": "https://github.com/backoncrack/ot/blob/f16f061d50e16419bf95e928a36b301d4cb42db7/1.txt",
+    "secret_type": "Private Key Block",
+    "secret_value": "-----BEGIN PRIVATE KEY-----\\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWY8OqlVFaE8hQ\\n+pZjuv2t1mMQG0Fu15Lfa8R2r4JujafY6A9fHbwhDFibDoa7aofwKyZracs/qVUR\\nwfEm7FXLFf7ptzlH3rNU+0ElAeDXM8++ePJVc4HAq+qEqW0q3yIZPlaMKpPe6Fks\\nhtX7WGXxnqaiYYgGRQ4VMp0+d+KrXXe9pkCE53vqpxnry/6DsQM6fK+jjphpeCZ8\\ng0mYk9u6J3RBCudlTTRSuHSyCFbsSL8v94wRv20oaEl2TT7GEWWPuQW6oIDrsCtv\\n7tpt03u4GhJxyiqwFRFWHAPFCnKNk0+NoCXHzn476IplmvpRv+vl/5DY/mE+NF5k\\nJLwHrSPNAgMBAAECggEAStHVfd+Nuq/O4CLbgUB9huf7Hv9AXYHYq1j1RErrLE9D\\na1GAnESx3QtEZdgjRcipWt5M3fGjUcfP7+a6MDAyOrh1uxcR42SzeZsK/PtjPg2j\\n1FJd1g+CRTYClf+otUSPtVljO5bPPH4CJ3npqYOALGZO5sh5IQ1oBTnKK1L/rVsu\\nZO4IUiF2xTzwVyLtct+tu5Pqy5yNc3uVkiPUA+QUWH9htgEXzAH6TWgchsSVn+ao\\n6uV3ckj4ltZ3bo9ooa4mk8XOedDMIkZqL4QHHVAaSca7mrwW52z6r/9Z1qq4KP7f\\np5WbsQksq2Ok0lpioATGInsHtMSORFCmmFhoE2SoTQKBgQDQqtN5HK535oWfaaGL\\nPS6h4HWLk+mLqTVkaDx5gaYyCB1LxmIkjzllozAobVyIOE3AQ3M8yLF3Tw4hC54r\\nIZ9840OM8fGs4KNOWi+P0rGONPJ9XwE31WD2zTagEutzemUsGChR8Fn8Le+iM5p4\\nQ7fCWxIaQNs6oNxK6KwCHr++awKBgQC4gMv4PBM6F5bWzYvoNdDeFluq9F2dqLi2\\nLaxbFn7sM5OpKcIhinn8LrNpTeNSnP0mBzOFuN+E9fqAED45jInmthz/nyVjHxtO\\njmJ9KtZ+P7WnOvi8bl5hJNvr955ho0ONbX8mnZMRj5dXh8lV1usuVIPXuDl8/ZjQ\\nGawul+rEpwKBgEAO4SLCClFmpEi+7cfH/YPWW1+BBeZJCMoNMdt/UJz1XsD/Yuuk\\nSFOKWGNgx1JOLphCXKMhXVGqJEVCwsis5sA5KGihcbbHs3p/NzCo1rc4S+TvAHm6\\neKzrbMSRalSmE18I/3/AEG/ZTkJ2Iwqeh1AUEyeaF3MVJOueKAfylpyHAoGANPJJ\\nFlBvGBGi6LuNtbKT4Ne7sKB1qQO9FhKfTnhzLedTLY1dN3DctsDUHZkLbi68+sfA\\nQlSeWDKak1uV77/j5wBF7BlIilxn4rA7lT3Q1eQEhhwHO1PU473HGr0xh0Vp4lEU\\n1wkLJlP1k1nVLjwBu4bnWuV0IelIjBeB8NEJvysCgYEArqkK9yomaK2w8ynjGkZy\\nRrihazVWKOGIFZiAQGbfMdD9Z+hvO4Iq5cuam+EC5Ixp9epIcb6SmFJWJtGBDlkJ\\nlVwaxMy4xdTheZJWMzMAF4c///e+Tfu63n0/yYKot3NyQye4WrYRd2GVlwnzOqzg\\nlenHJyFYcBfuMUPnuDNpD5c=\\n-----END PRIVATE KEY-----"
+  },
+  {
+    "file_url": "https://github.com/PercyJH01/Github-repo-settings-retrieval/blob/52d27f854922a74647d5c51000818dfbc8c22bba/py.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/hackforla/knowledgebase/blob/03234c463e3e4213d613922b5b1cea1e179511d1/x2.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/hackforla/gdoc-converter/blob/cc7df8846e914908c4662743520e02e1dd8899d6/x2.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/connectamey/husky-ai/blob/4edf9074ce514011715ce5f6d28b4f88906a754b/ss.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDF46IyZYwPlb6ZBxAD6-IuLxVNYsbTIwQ"
+  },
+  {
+    "file_url": "https://github.com/connectamey/husky-ai/blob/4edf9074ce514011715ce5f6d28b4f88906a754b/ss.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBkiLAtaav2ecI7Vvgs-iBeeMs_v3XndD8"
+  },
+  {
+    "file_url": "https://github.com/chinthaka2000/university-voting-system-Group_15-/blob/c27207ecac9d883e9a0e3c4092736a89a30a6f2e/key.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCbCo59czyJzscEGhvRuzEAlMdQMxUCOhc"
+  },
+  {
+    "file_url": "https://github.com/AbHiShEkChAvAn27/project/blob/4a6125cd1ea06f27a15e331a682f53d04ffde535/we.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDtNKMIfrXoqBRtZwhs8xaAr9JkLdWG4jM"
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/Huzaifaabdulrab/AgenticAi/blob/696e76e31e66b08f5bf471a982e4316c7ff71802/ai.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCUuLfxuwA19ILtBjuWTZFUlPe1y7tA0JA"
+  },
+  {
+    "file_url": "https://github.com/Huzaifaabdulrab/AgenticAi/blob/696e76e31e66b08f5bf471a982e4316c7ff71802/ai.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key =  "
+  },
+  {
+    "file_url": "https://github.com/GSA/auctions_api/blob/a757b46a28ce7072e7fd5e78f0dcf1dc230061ab/key.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "apiKey: "
+  },
+  {
+    "file_url": "https://github.com/WilfredNicholas/Chatbot-for-FAQs/blob/8dc6bd8e81ee64df32b9d7098f02e6aa5add60d6/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDa297A6W2-TLBvBqjxZ6-apMAnMxH2VCw"
+  },
+  {
+    "file_url": "https://github.com/Kilson3007/bot/blob/3008d15259d6139b188b47340eb59edc19162fde/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBNi9lwXlEG7DLZdCAywwMsv2kIrPjcUSU"
+  },
+  {
+    "file_url": "https://github.com/24-2-CAU-Capstone-02/frontend/blob/b7da1436d4db83f5e440899900e35213dc863f7e/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA9GqXVnvGGx2--vnZE0WYy9PyDWhoFTQA"
+  },
+  {
+    "file_url": "https://github.com/elastic/elasticsearch-specification/blob/9eddbdf776ab0dbbff2bd3fe4f04b4dbaf14ddd2/specification/security/create_api_key/examples/response/SecurityCreateApiKeyResponseExample1.yaml",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key\": "
+  },
+  {
+    "file_url": "https://github.com/Yepoleb/gogapidocs/blob/f2af1e36ee5c0f65c8ef8f9b738b46fd4658fbe7/auth.rst",
+    "secret_type": "Generic Bearer Token",
+    "secret_value": "Bearer xpIjnwyncascjBf20yz1n1tu8jo9spxyvy3zlvlL0rfoiiuly2hu5xnfgjysnuyhjqI7cmcatscp3ybgDjeqzwCggttnombuuicn_t6dbqybzYvpoieqtamaKuxpgclnUlt_q4jf_haj2emwgtrkzdlkhwinu7o93bpxWrbjdxr"
+  },
+  {
+    "file_url": "https://github.com/pvhoang99/spring-cloud-microservices/blob/c1fbcdd116def1ee338cfcab0b470b26d8dbd4de/env.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/pvhoang99/spring-cloud-microservices/blob/c1fbcdd116def1ee338cfcab0b470b26d8dbd4de/env.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/pvhoang99/spring-cloud-microservices/blob/c1fbcdd116def1ee338cfcab0b470b26d8dbd4de/env.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/SiriusA015/produgieBackend/blob/db6b90a2a7221789cfc7751e0dab1a02d961fc56/1.txt",
+    "secret_type": "SendGrid API Key",
+    "secret_value": "SG.TRxTDBg-TImdD80n7YiOhg.a1j5SKrpAtzu8av-xdYK37Be-waKLirzzxeNeqQJ"
+  },
+  {
+    "file_url": "https://github.com/fizal619/claires-cakes-bakery/blob/c269b65262972f1f0c07c2fabd1f8f303f34761f/notes.md",
+    "secret_type": "SendGrid API Key",
+    "secret_value": "SG.O8O_6QY9SsSNG6DfPomJbg.QDzrPTjS9XVrjAJA7MAgMMp368WVPAVPwAIY3lIy"
+  },
+  {
+    "file_url": "https://github.com/Ruduse/backend_intern_DB-Ecommerce/blob/962d4ac87faac62f2608ec2bed8757933cd04963/DOCS.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIA2Q6U4BY53P266AWA"
+  },
+  {
+    "file_url": "https://github.com/Ruduse/backend_intern_DB-Ecommerce/blob/962d4ac87faac62f2608ec2bed8757933cd04963/DOCS.md",
+    "secret_type": "SendGrid API Key",
+    "secret_value": "SG.ShCFHpMpT2K6A0wrpUVMew.kq_CFIT9tqV5Ja01Xa62gYpa4V7KXSP8d8AbbjJQ"
+  },
+  {
+    "file_url": "https://github.com/SharmilaGhosh120/kyra_email_ui/blob/ef4d114a77994221694dca1a90e101b9130daa72/env.txt",
+    "secret_type": "SendGrid API Key",
+    "secret_value": "SG.R6SUV4NLR5CHyAfDo8Dm2w.2rZ7zXcwPw9RJoCG-Q9nGBCPl-xXIlwXXoU72kta"
+  },
+  {
+    "file_url": "https://github.com/rileygiauque/Finalyze/blob/dc1ece912d10db598e0b5f7489a6dbf2205204c5/env.txt",
+    "secret_type": "SendGrid API Key",
+    "secret_value": "SG.puJvOR9URfeWEp3eQWlwXQ.LP3Psm0cxRxvWAuRLpNs0i7Zt2woIeZ_yiCI6I8Z"
+  },
+  {
+    "file_url": "https://github.com/Citrom333/RepairApp/blob/a2cbcd53c292e35ec0e8c6583216221e1be9534e/Readme.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY="
+  },
+  {
+    "file_url": "https://github.com/asc-lab/aws-lambda-billing/blob/c604382a21e1bc432711557521a179b3d30d4ec6/README.md",
+    "secret_type": "Twilio Auth Token",
+    "secret_value": "_auth_token = "
+  },
+  {
+    "file_url": "https://github.com/asc-lab/aws-lambda-billing/blob/c604382a21e1bc432711557521a179b3d30d4ec6/README.md",
+    "secret_type": "SendGrid API Key",
+    "secret_value": "SG.rePNAA_AAAAaAA1aAAAi6w.r5AAAUZhyaaaUo7w0030MFAauAaTWvXw-n11mpAa"
+  },
+  {
+    "file_url": "https://github.com/churcho/chatlag/blob/b098f5f296b549ab0c0290bff2ccf3347017b4d9/prod",
+    "secret_type": "Mailgun API Key",
+    "secret_value": "key-3a5100b6a2b10eb0bc6c396efbf35efb"
+  },
+  {
+    "file_url": "https://github.com/mikowitz/mac-dotfiles/blob/081c412f73e84d743100328e2475129d9fb6ec01/zshrc",
+    "secret_type": "Mailgun API Key",
+    "secret_value": "key-96c7f844622b6e41c54ef9094d7afc62"
+  },
+  {
+    "file_url": "https://github.com/daison12006013/web-golang-101/blob/b8d8853ab5e48a65ee9b83232b40d6315aed4a35/README.MD",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY="
+  },
+  {
+    "file_url": "https://github.com/c-rhodes/course_portal/blob/223e3d08cb6a31cdeaede972282d055d6a37b4db/README.rst",
+    "secret_type": "Mailgun API Key",
+    "secret_value": "key-328f4f3aecd8c8ac97ebb040c5cd145a"
+  },
+  {
+    "file_url": "https://github.com/OCA/mail/blob/3bc3bf75626c28abe0e826dad71c5a3591d8aec0/mail_tracking_mailgun/i18n/nb.po",
+    "secret_type": "Mailgun API Key",
+    "secret_value": "key-abcde0123456789abcde0123456789ab"
+  },
+  {
+    "file_url": "https://github.com/5hank4r/nuclei-T/blob/680d62f4ffde3d7993790440f74fa06a9fc324a9/twili.txt",
+    "secret_type": "Twilio Auth Token",
+    "secret_value": "_auth_token\":"
+  },
+  {
+    "file_url": "https://github.com/5hank4r/nuclei-T/blob/680d62f4ffde3d7993790440f74fa06a9fc324a9/twili.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key\":"
+  },
+  {
+    "file_url": "https://github.com/Jesus123780/front-client/blob/d275af3b6e13f6af628609bfc16bc3921f63b179/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyAy0SY1G3OFqesWSTQRHJvzyJzNgURPoN8"
+  },
+  {
+    "file_url": "https://github.com/mhmd2015/REST-MIT2/blob/b65eb5ce2cbd1af19e92ad9d521a38743b3d6563/info.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAVRO275472CWFV5JU"
+  },
+  {
+    "file_url": "https://github.com/gurudeep9/test-trillio/blob/6cf2fb688de8989830b0b11b3bed6ed35c4ff1cf/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyAy0SY1G3OFqesWSTQRHJvzyJzNgURPoN8"
+  },
+  {
+    "file_url": "https://github.com/Sizeless/ReplicationPackage/blob/abb43d57994c3bfd423bee2011905229ce6b3aee/AirlineBooking/cmd.sh",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAJ4X2BWYY6DFDC2KQ"
+  },
+  {
+    "file_url": "https://github.com/projectkerberus/kerberus-dashboard-backend/blob/dfda97a17633a2207168542689fa67ca48f64cdd/todo.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/pratiksha28058/Employee/blob/5faa95ea6c8a98020ffc129c065933103db5ee66/.env.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/sunny-bboy/ai-nexus-desktop/blob/01864f558d047596d6e88ec8fda5288f1013f85b/.env.txt",
+    "secret_type": "GitHub Token",
+    "secret_value": "ghp_1234567890abcdef1234567890abcdef1234"
+  },
+  {
+    "file_url": "https://github.com/bbest/gh-actions-demo/blob/86aebcf2488059b9185bfda9f732eae9a0c80a51/index.Rmd",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key <- "
+  },
+  {
+    "file_url": "https://github.com/dillibabu91GIT/OPTIRAC/blob/cafef0771f088242a75e5fa169b64570df02a0be/POC.TXT",
+    "secret_type": "GitHub Token",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/webdevtodayjason/changereq/blob/45281f52022352ca74a799cd01c7315968960a3a/env.txt",
+    "secret_type": "Slack Token",
+    "secret_value": "5924844374859"
+  },
+  {
+    "file_url": "https://github.com/naver/notify-pr-review/blob/02cceb825bdabd326178fcff9f5ae952ac97661c/README.md",
+    "secret_type": "Slack Token",
+    "secret_value": "798572638592"
+  },
+  {
+    "file_url": "https://github.com/sifue/chatgpt-slackbot/blob/a3b8b8be883dd8b8fc768f09f4cff357a49d75ef/README.md",
+    "secret_type": "Slack Token",
+    "secret_value": "xxxxxxxxxxxxxxxxx"
+  },
+  {
+    "file_url": "https://github.com/naver/notify-pr-line-count/blob/6f6c4e56b35e9327c123723745c245485f78dafb/README.md",
+    "secret_type": "Slack Token",
+    "secret_value": "798572638592"
+  },
+  {
+    "file_url": "https://github.com/tonarino/blog-template/blob/c1e540088e7d3894187925279317a307b58c19ae/README.md",
+    "secret_type": "GitHub Token",
+    "secret_value": "ghp_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+  },
+  {
+    "file_url": "https://github.com/crazywoola/dify-bot/blob/086b37774c21838af56b0a15da3fb06d0a925fac/README.md",
+    "secret_type": "Slack Token",
+    "secret_value": "xxxxxxxxxxxxx"
+  },
+  {
+    "file_url": "https://github.com/Manta-Network/testnet-v3-faucet/blob/5cd98641da247875519ee1d91ef8bdff0c914a8e/readme.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAXXXXXXXXXXXXXXXX"
+  },
+  {
+    "file_url": "https://github.com/santiagotxt/t424/blob/b7cfbe63b480e03ccf5bf178f8fa4656cc1fbb6c/env.txt",
+    "secret_type": "Discord Bot Token",
+    "secret_value": "M3ODUyOTA3Mzc0NzMzMzE5MQ.Gg7M7c._xFfA3bmv3QM4xZBX09RPHFnzYg"
+  },
+  {
+    "file_url": "https://github.com/ChandraKasturi/newagent/blob/70b3090ff675aa4afc8f94e13863bb108e126ecc/keys.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDf0mqVvRyMewzeTp2vP_ImYpQ90vx3QP8"
+  },
+  {
+    "file_url": "https://github.com/KotlaReddy15/Athena/blob/2b86c49248230f645fe2822a73e5b2b10e53903d/.env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDjsZpxdPc0Hf2QCbUyjTsKOEZy3LqAhD8"
+  },
+  {
+    "file_url": "https://github.com/KotlaReddy15/Athena/blob/2b86c49248230f645fe2822a73e5b2b10e53903d/.env",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDjsZpxdPc0Hf2QCbUyjTsKOEZy3LqAhD8"
+  },
+  {
+    "file_url": "https://github.com/prescottprue/fireadmin/blob/7d49cb768a77078608c4f21d219cea2b447dfd1f/.firebaserc",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY\": "
+  },
+  {
+    "file_url": "https://github.com/BuildHackSecure/gitscraper/blob/a365cf537677e72d26a2ff412fce4ad6df4b8da2/headers.txt",
+    "secret_type": "Generic Bearer Token",
+    "secret_value": "BEARER\nHTTP_X_JPHONE_MSNAME"
+  },
+  {
+    "file_url": "https://github.com/Cyberw1ng/Bug-Bounty/blob/fa890da7d0e1b3722540c39bfe35e4c69d6929ee/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  },
+  {
+    "file_url": "https://github.com/Cyberw1ng/Bug-Bounty/blob/fa890da7d0e1b3722540c39bfe35e4c69d6929ee/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key: "
+  },
+  {
+    "file_url": "https://github.com/Cyberw1ng/Bug-Bounty/blob/fa890da7d0e1b3722540c39bfe35e4c69d6929ee/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "apikey\": "
+  },
+  {
+    "file_url": "https://github.com/Cyberw1ng/Bug-Bounty/blob/fa890da7d0e1b3722540c39bfe35e4c69d6929ee/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/nuxt-modules/algolia/blob/3068c097be37516bc802f615aa92ebc826e2c963/README.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY="
+  },
+  {
+    "file_url": "https://github.com/mikecann/mikecann.blog/blob/ed9a1c26db6695da2ac2750e472eb9808a41f8f2/utils/algolia.ts",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/securisec/chepy_plugins/blob/042b2af4817fc8c7849a2e809763f1805b9e6834/data/secrets.txt",
+    "secret_type": "Generic Bearer Token",
+    "secret_value": "BEARER\nDROPLET_TRAVIS_PASSWORD"
+  },
+  {
+    "file_url": "https://github.com/4LPH4ONE/Bug-Bounty/blob/50bd431f4fc95bedc46e7a54836b63a1f4a703de/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  },
+  {
+    "file_url": "https://github.com/4LPH4ONE/Bug-Bounty/blob/50bd431f4fc95bedc46e7a54836b63a1f4a703de/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key: "
+  },
+  {
+    "file_url": "https://github.com/4LPH4ONE/Bug-Bounty/blob/50bd431f4fc95bedc46e7a54836b63a1f4a703de/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "apikey\": "
+  },
+  {
+    "file_url": "https://github.com/4LPH4ONE/Bug-Bounty/blob/50bd431f4fc95bedc46e7a54836b63a1f4a703de/GIthub-API-Exploit.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/getguesstimate/guesstimate-app/blob/bb5a4a8ce7fe6f7a6281fa8c3f3a1d1e7febcbdc/.env.development",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/mongodb/kingfisher/blob/7f8c4a645c01c1a473845e396176c456aabf33d2/docs/RULES.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  }
+]

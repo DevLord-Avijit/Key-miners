@@ -1,0 +1,48 @@
+{
+  "//": "This file contains VALID API keys categorized by type. Manually test further if needed.",
+  "Mailgun API Key": [
+    {
+      "file_url": "https://github.com/churcho/chatlag/blob/b098f5f296b549ab0c0290bff2ccf3347017b4d9/prod",
+      "secret_type": "Mailgun API Key",
+      "secret_value": "key-3a5100b6a2b10eb0bc6c396efbf35efb",
+      "status": "valid",
+      "test":"❌"
+      
+    },
+    {
+      "file_url": "https://github.com/mikowitz/mac-dotfiles/blob/081c412f73e84d743100328e2475129d9fb6ec01/zshrc",
+      "secret_type": "Mailgun API Key",
+      "secret_value": "key-96c7f844622b6e41c54ef9094d7afc62",
+      "status": "valid",
+      "test":"❌"
+    },
+    {
+      "file_url": "https://github.com/c-rhodes/course_portal/blob/223e3d08cb6a31cdeaede972282d055d6a37b4db/README.rst",
+      "secret_type": "Mailgun API Key",
+      "secret_value": "key-328f4f3aecd8c8ac97ebb040c5cd145a",
+      "status": "valid",
+      "test":"❌"
+    },
+    {
+      "file_url": "https://github.com/churcho/chatlag/blob/b098f5f296b549ab0c0290bff2ccf3347017b4d9/prod",
+      "secret_type": "Mailgun API Key",
+      "secret_value": "key-3a5100b6a2b10eb0bc6c396efbf35efb",
+      "status": "valid",
+      "test":"❌"
+    },
+    {
+      "file_url": "https://github.com/mikowitz/mac-dotfiles/blob/081c412f73e84d743100328e2475129d9fb6ec01/zshrc",
+      "secret_type": "Mailgun API Key",
+      "secret_value": "key-96c7f844622b6e41c54ef9094d7afc62",
+      "status": "valid",
+      "test":"❌"
+    },
+    {
+      "file_url": "https://github.com/c-rhodes/course_portal/blob/223e3d08cb6a31cdeaede972282d055d6a37b4db/README.rst",
+      "secret_type": "Mailgun API Key",
+      "secret_value": "key-328f4f3aecd8c8ac97ebb040c5cd145a",
+      "status": "valid",
+      "test":"❌"
+    }
+  ]
+}

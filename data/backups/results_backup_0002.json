@@ -1,0 +1,247 @@
+[
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/p.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/robert1948/django-on-ec2/blob/b42f22259524520ae2603ceced13aba1b29c1b63/AWS.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAW3MEFBJAGHDIJ4MJ"
+  },
+  {
+    "file_url": "https://github.com/robert1948/django-on-ec2/blob/b42f22259524520ae2603ceced13aba1b29c1b63/AWS.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAW3MEFBJAGHDIJ4MJ"
+  },
+  {
+    "file_url": "https://github.com/robert1948/django-on-ec2/blob/b42f22259524520ae2603ceced13aba1b29c1b63/AWS.txt",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAW3MEFBJAPRJW6WP2"
+  },
+  {
+    "file_url": "https://github.com/go-vela/vela-s3-cache/blob/f50016daacf8cf9130aee844165880c9caceb887/DOCS.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAIOSFODNN7EXAMPLE"
+  },
+  {
+    "file_url": "https://github.com/go-vela/vela-s3-cache/blob/f50016daacf8cf9130aee844165880c9caceb887/DOCS.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAIOSFODNN7EXAMPLE"
+  },
+  {
+    "file_url": "https://github.com/jeremyarancio/invoice-reader-app/blob/a5d08e347dbe7c408ab5f342678caa3181596b77/NOTES.md",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAIOSFODNN7EXAMPLE"
+  },
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/p.tmp",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/dungen/k.yaml",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/Exido-Rio/skills-introduction-to-secret-scanning/blob/06eb611e276bc9caefd9c7ee547d5ae28af72297/dungen/test.yaml",
+    "secret_type": "AWS Access Key",
+    "secret_value": "AKIAQYLPMN5HNM4OZ56C"
+  },
+  {
+    "file_url": "https://github.com/Touseef-Git/owais-portfolio1/blob/03cc4781bdd26278695f8dbd7fdda3016b591e99/keys.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyC8O1zIqLImL8sRn7aBJmvt2xcGicCtzAc"
+  },
+  {
+    "file_url": "https://github.com/Touseef-Git/owais-portfolio1/blob/03cc4781bdd26278695f8dbd7fdda3016b591e99/keys.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "apiKey: "
+  },
+  {
+    "file_url": "https://github.com/EKI-INDRADI/eki-rnd-svelte-sveltekit-2023-part-2/blob/c85fea224456450972bfd01855fe94faf2c52de2/readme.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "apiKey: "
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/r.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCn88lZvkBwb5Q-LAiCs8Mni56lclVb67s"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/m.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBuhwCEzXTE2BtL-m3tIMAlXMVELwJiLqI"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/f.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDGvKTGzPN1tXbbFHGrQhZC5zbc0nhIaO4"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA3JfoVTcUkJp4CpGObVK5CrS49ZSf1bl0"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA3JfoVTcUkJp4CpGObVK5CrS49ZSf1bl0"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA3JfoVTcUkJp4CpGObVK5CrS49ZSf1bl0"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA3JfoVTcUkJp4CpGObVK5CrS49ZSf1bl0"
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/wis4nggeni/results/blob/f37c628a3a14980514300695470fd14047f56273/o.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/chirag127/Image-Insight-AI/blob/55d1fe6b68c960b32d759f73bc345be45878f226/p.md",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  },
+  {
+    "file_url": "https://github.com/taifAlrubeaan/2024-GP_4/blob/ad1881d74044213c9f656d3b32f84a2f9c9ea4f8/c.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBun53CttUKoTpq2tmqqrvz5hpLkp2GTMw"
+  },
+  {
+    "file_url": "https://github.com/taifAlrubeaan/2024-GP_4/blob/ad1881d74044213c9f656d3b32f84a2f9c9ea4f8/c.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY "
+  },
+  {
+    "file_url": "https://github.com/shahi-rabin/Enterprise/blob/395a744dd20e2abada51247a8f87410fb4b7e6b3/abc.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyD_IMQx7YphwNQ2Xe_FaB6lXgb11TQiR8Y"
+  },
+  {
+    "file_url": "https://github.com/reewardius/bbgithub-dorks/blob/dd79e2f0d343fb8aad2d199a1c160165624b4fd2/raw.txt",
+    "secret_type": "Slack Token",
+    "secret_value": ""
+  },
+  {
+    "file_url": "https://github.com/reewardius/bbgithub-dorks/blob/dd79e2f0d343fb8aad2d199a1c160165624b4fd2/raw.txt",
+    "secret_type": "Slack Token",
+    "secret_value": ""
+  },
+  {
+    "file_url": "https://github.com/reewardius/bbgithub-dorks/blob/dd79e2f0d343fb8aad2d199a1c160165624b4fd2/raw.txt",
+    "secret_type": "Slack Token",
+    "secret_value": ""
+  },
+  {
+    "file_url": "https://github.com/connectamey/husky-ai/blob/4edf9074ce514011715ce5f6d28b4f88906a754b/ss.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDF46IyZYwPlb6ZBxAD6-IuLxVNYsbTIwQ"
+  },
+  {
+    "file_url": "https://github.com/connectamey/husky-ai/blob/4edf9074ce514011715ce5f6d28b4f88906a754b/ss.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBkiLAtaav2ecI7Vvgs-iBeeMs_v3XndD8"
+  },
+  {
+    "file_url": "https://github.com/AbHiShEkChAvAn27/project/blob/4a6125cd1ea06f27a15e331a682f53d04ffde535/we.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key = "
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDtNKMIfrXoqBRtZwhs8xaAr9JkLdWG4jM"
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/taifAlrubeaan/2024-GP_4/blob/ad1881d74044213c9f656d3b32f84a2f9c9ea4f8/c.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBun53CttUKoTpq2tmqqrvz5hpLkp2GTMw"
+  },
+  {
+    "file_url": "https://github.com/taifAlrubeaan/2024-GP_4/blob/ad1881d74044213c9f656d3b32f84a2f9c9ea4f8/c.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY "
+  },
+  {
+    "file_url": "https://github.com/Huzaifaabdulrab/AgenticAi/blob/696e76e31e66b08f5bf471a982e4316c7ff71802/ai.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyCUuLfxuwA19ILtBjuWTZFUlPe1y7tA0JA"
+  },
+  {
+    "file_url": "https://github.com/Huzaifaabdulrab/AgenticAi/blob/696e76e31e66b08f5bf471a982e4316c7ff71802/ai.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key =  "
+  },
+  {
+    "file_url": "https://github.com/WilfredNicholas/Chatbot-for-FAQs/blob/8dc6bd8e81ee64df32b9d7098f02e6aa5add60d6/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDa297A6W2-TLBvBqjxZ6-apMAnMxH2VCw"
+  },
+  {
+    "file_url": "https://github.com/tarabakz25/esg-data-hub-2/blob/c826a6729a46a93d1dce58c8c5a7b46998bd110f/env.txt",
+    "secret_type": "Slack Token",
+    "secret_value": ""
+  },
+  {
+    "file_url": "https://github.com/Kilson3007/bot/blob/3008d15259d6139b188b47340eb59edc19162fde/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBNi9lwXlEG7DLZdCAywwMsv2kIrPjcUSU"
+  },
+  {
+    "file_url": "https://github.com/24-2-CAU-Capstone-02/frontend/blob/b7da1436d4db83f5e440899900e35213dc863f7e/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyA9GqXVnvGGx2--vnZE0WYy9PyDWhoFTQA"
+  },
+  {
+    "file_url": "https://github.com/elastic/elasticsearch-specification/blob/9eddbdf776ab0dbbff2bd3fe4f04b4dbaf14ddd2/specification/security/create_api_key/examples/response/SecurityCreateApiKeyResponseExample1.yaml",
+    "secret_type": "Generic API Key",
+    "secret_value": "api_key\": "
+  },
+  {
+    "file_url": "https://github.com/connectamey/husky-ai/blob/4edf9074ce514011715ce5f6d28b4f88906a754b/ss.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDF46IyZYwPlb6ZBxAD6-IuLxVNYsbTIwQ"
+  },
+  {
+    "file_url": "https://github.com/connectamey/husky-ai/blob/4edf9074ce514011715ce5f6d28b4f88906a754b/ss.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyBkiLAtaav2ecI7Vvgs-iBeeMs_v3XndD8"
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Google API Key",
+    "secret_value": "AIzaSyDtNKMIfrXoqBRtZwhs8xaAr9JkLdWG4jM"
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  },
+  {
+    "file_url": "https://github.com/upendrapanwar/payearth/blob/eb062b04f650d8b7aaa51fbe5c063346cdb3e057/env.txt",
+    "secret_type": "Generic API Key",
+    "secret_value": "API_KEY = "
+  }
+]

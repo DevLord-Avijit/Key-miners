@@ -1,0 +1,17 @@
+[
+  {
+    "file_url": "https://github.com/nelsonlauhy/agentassist/blob/87052b64d07903f60e7b4ad173f05b047db7cc89/key.txt",
+    "secret_type": "OpenAI API Key",
+    "secret_value": "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"
+  },
+  {
+    "file_url": "https://github.com/Kerenj2123/Kere/blob/ea214bd0c5b29c0494543cd6b1191399d00f217f/app.txt",
+    "secret_type": "OpenAI API Key",
+    "secret_value": "sk-eJQrggU1kLXnQIAdM03L8wR2OOmcciXDriQPXVHtGAT3BlbkFJkOp"
+  },
+  {
+    "file_url": "https://github.com/areebahmed575/Learn-Generative-AI/blob/fa1f3f332e7acfde622344fcfa9bcd6dec374e2a/openAi/testopenaiapi%20and%20langchain%20(1).ipynb",
+    "secret_type": "OpenAI API Key",
+    "secret_value": "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"
+  }
+]
